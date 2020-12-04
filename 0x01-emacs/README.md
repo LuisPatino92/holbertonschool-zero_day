@@ -1,1 +1,0 @@
-This folder contains files with some options for emacs
